@@ -142,4 +142,8 @@ public class CreateEntityFromTxt {
         return returnStr;
     }
 
+
+    public static void main(String [] args){
+        new CreateEntityFromTxt("F:\\123.txt");
+    }
 }
